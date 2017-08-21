@@ -7,7 +7,7 @@
     "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles",
     "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote",
     "@ckeditor/ckeditor5-build-classic": "ckeditor/ckeditor5-build-classic",
-    "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard",
+    "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard#t/ckeditor5-upload/32",
     "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core",
     "@ckeditor/ckeditor5-editor-balloon-toolbar": "ckeditor/ckeditor5-editor-balloon-toolbar",
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic",
@@ -25,7 +25,7 @@
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing",
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo",
-    "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload",
+    "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload#t/32",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget"
   }
