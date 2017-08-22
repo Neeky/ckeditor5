@@ -8,7 +8,7 @@
     "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote#t/ckeditor5-link/52",
     "@ckeditor/ckeditor5-build-classic": "ckeditor/ckeditor5-build-classic",
     "@ckeditor/ckeditor5-clipboard": "ckeditor/ckeditor5-clipboard",
-    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core",
+    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#t/ckeditor5-link/52",
     "@ckeditor/ckeditor5-editor-balloon-toolbar": "ckeditor/ckeditor5-editor-balloon-toolbar",
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic",
     "@ckeditor/ckeditor5-editor-inline": "ckeditor/ckeditor5-editor-inline#t/ckeditor5-link/52",
